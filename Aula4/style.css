@@ -1,8 +1,21 @@
 body{
     color:black;
-    background-color:beige;
+    /*background-image:linear-gradient(rgb(246, 182, 255),rgb(139, 137, 240), blue);*/
+    background-image: url("https://www.papeldeparede.etc.br/fotos/wp-content/uploads/luzes-da-cidade_1257_1600x1200.jpg");
+    background-size: cover;
+    background-position: fixed;
+
+    
 }
-p{
-    color:rgb(43, 220, 226);
-    background-color:rgb(189, 18, 98);
+p, ul{
+    color:rgb(117, 9, 63);
+    background-color:rgb(248, 237, 242);
+    font-size:20px; /*comentário no css*/
+    text-align: center;
+}
+.titulo{ /*class*/
+
+}
+#seletor{ /*id*/
+
 }
